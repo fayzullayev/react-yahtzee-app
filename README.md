@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/fayzullayev/react-yahtzee-app/blob/master/public/Yahtzee.gif" />
+</div>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
